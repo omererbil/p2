@@ -1,0 +1,102 @@
+{
+  "project_info": {
+    "project_number": "177930074238",
+    "firebase_url": "https://authentication-11fdf.firebaseio.com",
+    "project_id": "authentication-11fdf",
+    "storage_bucket": "authentication-11fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177930074238:android:79aaba08ee13bb0c",
+        "android_client_info": {
+          "package_name": "com.lanpract"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177930074238-1rve53eorsaqjfadkri2qadrb704714m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lanpract",
+            "certificate_hash": "0552819d701f5498f81c5e61b61036945d96fa4e"
+          }
+        },
+        {
+          "client_id": "177930074238-jemcj7tvvgr09v7cf7c30ndlq8kbj5sn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lanpract",
+            "certificate_hash": "e1ad8e7539d7e2d8d5fb87cbc989ef1de527bd98"
+          }
+        },
+        {
+          "client_id": "177930074238-r53rt8h50muv2laie26vgnh1lhnvca80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lanpract",
+            "certificate_hash": "1972d6f8c060c579e63435dfcdd3513b76e8a4f8"
+          }
+        },
+        {
+          "client_id": "177930074238-r4pc4887njdf60450krfu2m0l1vscfnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lanpract",
+            "certificate_hash": "9d120f7f8dfc029e6ca822f0fbcdbf1eea41010c"
+          }
+        },
+        {
+          "client_id": "177930074238-kua5dlbq0tv8a54ggtq2dktin50joh9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lanpract",
+            "certificate_hash": "52b32f615536d24027562b8f3891b4c15b41bd1e"
+          }
+        },
+        {
+          "client_id": "177930074238-op1s9jmfvbv4tqfdm6nhivgkup67hmrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lanpract",
+            "certificate_hash": "f71be0e8ca7d392c02661508424f6c0c254d1e26"
+          }
+        },
+        {
+          "client_id": "177930074238-rricvj9ob63q5b2odargolvuphsa341k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DkSj97X1HjPJRSU8M37VChCvo4DXjJ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177930074238-8uthh63157gadt30pqrnh4ssi4pd7r7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177930074238-dstp969rem2q8h38imtkiqgb29s8tdvq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.lanpract"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
